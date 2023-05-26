@@ -1,5 +1,4 @@
 # Supply-Chain-Analysis-for-Retail-Chain
-Supply-Chain-Analysis-for-Retail-Chain
 
 ## Link to my Tableau Dashboard - [Click here](https://public.tableau.com/views/RetailInsightsDashboard/Demographic?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
