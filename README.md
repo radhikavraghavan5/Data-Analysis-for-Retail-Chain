@@ -91,7 +91,7 @@ Sprocket Central Pty Ltd marketing team is looking to boost business by analysin
 
 <img width="500" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/4b572212-218f-488a-b14e-8f61fd557c26">
 
-### Number of bike purchases in 3 years / percentages purchases
+#### Number of bike purchases in 3 years / percentages purchases
 - As we can see, our new customers mostly Female with 50.6% purchases with total of 25,212 bikes
 - Male contributed to 47.7% purchases with 23,765 bikes. 
 - So we should focus on advertises on Female customers than Male customers
