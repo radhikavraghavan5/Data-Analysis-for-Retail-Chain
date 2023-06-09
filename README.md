@@ -79,7 +79,7 @@ Sprocket Central Pty Ltd marketing team is looking to boost business by analysin
 
 
 ### Objective
-Built customer segmentation based on RFM model
+Built customer segmentation based 
 Analyzing customer trends, behaviour, and demographic
 
 ### Result
