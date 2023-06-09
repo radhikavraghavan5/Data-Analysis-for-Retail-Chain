@@ -88,6 +88,7 @@ Sprocket Central Pty Ltd marketing team is looking to boost business by analysin
 - There is a slightly increase in number of customers over 59 years old in term of percentages
 - It looks like the percentages of under 25 years old not really change.
 <img width="261" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/529a08e8-ebb1-4087-87f0-5b45a3733a2b">
+
 <img width="262" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/4b572212-218f-488a-b14e-8f61fd557c26">
 
 ### Number of bike purchases in 3 years / percentages purchases
@@ -95,22 +96,28 @@ Sprocket Central Pty Ltd marketing team is looking to boost business by analysin
 - Male contributed to 47.7% purchases with 23,765 bikes. 
 - So we should focus on advertises on Female customers than Male customers
 <img width="262" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/f7761dbd-d24e-4e72-89f8-0c9324682f32">
+
 <img width="273" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/63e99ca8-54d6-47c1-b1fb-ff7382b17a04">
 
 #### Job industry category
 - Mostly our new customers are on Finance industry and our Manufacturing customers are still on top 2. The rest industries is still same
+
 <img width="219" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/480d97ab-fdea-4de8-b92b-1b5a99133ac9"> 
+
 <img width="249" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/340bf8b7-8f11-433a-a8fc-8782757a752f">
 
 #### Wealth segments
 - In all ages, the number of Mass Customers is the highest so we should focus on this social class.
 - After that, we should focus on High Net Customer. Then Affluent Customers but mostly second and third quadrant
+
 <img width="210" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/1ced6a66-257a-4989-9f4f-94def75f3775"> 
+
 <img width="209" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/2de85827-4ce2-448c-b186-a2d3496e8cee">
 
 #### Numbers of cars owned on each state
 - NSW should be considered the most since numbers of customers don’t own cars is significantly larger than that own.
 - VIC and QLD has more customers that own car that who don’t but we can try to have something so that those owns car will buy bikes.
+
 <img width="329" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/9b8b88cb-f240-41d6-9dab-5713f8abad68">
 
 
