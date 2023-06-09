@@ -83,19 +83,19 @@ Sprocket Central Pty Ltd marketing team is looking to boost business by analysin
 
 ### Result
 #### Customers’ age distribution
-<img width="261" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/529a08e8-ebb1-4087-87f0-5b45a3733a2b">
-<img width="262" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/4b572212-218f-488a-b14e-8f61fd557c26">
 - As we can see, mostly our new customers are between 25 to 48 years old.
 - Number of customers from 48 to 59 years old has big drops on percentages.
 - There is a slightly increase in number of customers over 59 years old in term of percentages
 - It looks like the percentages of under 25 years old not really change.
+<img width="261" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/529a08e8-ebb1-4087-87f0-5b45a3733a2b">
+<img width="262" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/4b572212-218f-488a-b14e-8f61fd557c26">
 
 ### Number of bike purchases in 3 years / percentages purchases
-<img width="262" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/f7761dbd-d24e-4e72-89f8-0c9324682f32">
-<img width="273" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/63e99ca8-54d6-47c1-b1fb-ff7382b17a04">
 - As we can see, our new customers mostly Female with 50.6% purchases with total of 25,212 bikes
 - Male contributed to 47.7% purchases with 23,765 bikes. 
 - So we should focus on advertises on Female customers than Male customers
+<img width="262" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/f7761dbd-d24e-4e72-89f8-0c9324682f32">
+<img width="273" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/63e99ca8-54d6-47c1-b1fb-ff7382b17a04">
 
 #### Job industry category
 - Mostly our new customers are on Finance industry and our Manufacturing customers are still on top 2. The rest industries is still same
@@ -112,9 +112,6 @@ Sprocket Central Pty Ltd marketing team is looking to boost business by analysin
 - NSW should be considered the most since numbers of customers don’t own cars is significantly larger than that own.
 - VIC and QLD has more customers that own car that who don’t but we can try to have something so that those owns car will buy bikes.
 <img width="329" alt="image" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/9b8b88cb-f240-41d6-9dab-5713f8abad68">
-
-
-
 
 
 
