@@ -1,4 +1,4 @@
-# Customer-Analysis-for-Retail-Chain
+# Customer-Data-Analysis-for-Retail-Chain
 
 ## Link to my Tableau Dashboard - [Click here](https://public.tableau.com/views/SpyrocketKPIdashboard/Summary?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
