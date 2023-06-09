@@ -29,10 +29,14 @@ Objectives
 Review and evaluate the data based on Standard Data Quality Dimensions.
 Identify strategies to mitigate that issues.
 
-Result
-Check out the analysis in the notebook!
+Results
+| Table Name  |  	No of Records | Distinct customer_id  |  Date Data Recieved |
+| ------------- | ------------- | | ------------- | ------------- | 
+| CustomerDemographic   |   4000 |   4000 |  2022-12-20  |    
+| CustomerAddres| 	3999	| 3999	| 2022-12-20 | 
+| Transactions	| 20001	| 3494	| 2022-12-20 | 
 
-Tabel Name	No of Records	Distinct customer_id	Date Data Recieved
-CustomerDemographic	4000	4000	2022-12-20
-CustomerAddres	3999	3999	2022-12-20
-Transactions	20001	3494	2022-12-20
+
+
+
+
