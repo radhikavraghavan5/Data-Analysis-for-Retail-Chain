@@ -1,6 +1,6 @@
 # Customer-Data-Analysis-for-Retail-Chain
 
-## Link to my Tableau Dashboard - [Click here](https://public.tableau.com/views/SpyrocketKPIdashboard/Summary?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## Link to my Tableau Dashboard - [Click here](https://public.tableau.com/app/profile/viradhika/viz/TargetedCustomersDemographicDashboard/TargetedCustomerDemographic)
 
 ## Overview
 KPMG is a global organization of independent professional firms that provides a range of services to organizations across various industries, government, and non-profit sectors. Its service areas include Audit, Assurance & Risk Consulting; Deals, Tax & Legal; Management Consulting; and Innovation & Digital Solutions.
