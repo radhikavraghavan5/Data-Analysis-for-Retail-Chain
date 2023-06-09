@@ -2,7 +2,7 @@
 
 ## Link to my Tableau Dashboard - [Click here](https://public.tableau.com/views/SpyrocketKPIdashboard/Summary?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
-# Overview
+## Overview
 KPMG is a global organization of independent professional firms that provides a range of services to organizations across various industries, government, and non-profit sectors. Its service areas include Audit, Assurance & Risk Consulting; Deals, Tax & Legal; Management Consulting; and Innovation & Digital Solutions.
 
 Under the KPMG Digital Solutions service, as part of the Data, Analytics & Modeling team, we will effectively analyze data sets to help Sprocket Central Pty Ltd, a bike and bike accessories company, develop and optimize its marketing strategies.
@@ -13,7 +13,7 @@ Customer demographics
 Customer addresses
 Transactions
 
-# 📂 Task 1 - Data Quality Assessment
+## 📂 Task 1 - Data Quality Assessment
 ### Background Information
 Sprocket Central Pty Ltd needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy.
 
@@ -73,24 +73,23 @@ There are some records in product_id = 0, we can make sure and check the databas
 #### 7. Uniqueness : record that are duplicated
 No duplicate records
 
-# 📂 Task 2 - Data Insights
+## 📂 Task 2 - Data Insights
 ### Background Information
 Sprocket Central Pty Ltd marketing team is looking to boost business by analysing their existing customer dataset to determine customer trends and behaviour. Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, we will recommend which of these 1000 new customers should be targeted to drive the most value for the organisation.
 
-
 ### Objective
-Built customer segmentation based 
-Analyzing customer trends, behaviour, and demographic
+- Built customer segmentations
+- Analyzing customer trends, behaviour, and demographic
 
 ### Result
 
 
 
-# 📂 Task 3 - Data Insights and Presentation
+
+## 📂 Task 3 - Data Insights and Presentation
 
 ### Background Information
 After building the model we need to present our results back to the client. A list of customers or algorithm won’t cut it with the client, we need to support our results with the use of visualisations.
-
 
 ### Objective
 To develop a dashboard
