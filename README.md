@@ -2,6 +2,8 @@
 
 ## Link to my Tableau Dashboard - [Click here](https://public.tableau.com/app/profile/viradhika/viz/TargetedCustomersDemographicDashboard/TargetedCustomerDemographic)
 
+<img width="1001" alt="Screenshot 2023-06-08 at 10 33 13 PM" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/f2439d60-7d89-4a0d-8d40-7f8b849acb49">
+
 ## Overview
 KPMG is a global organization of independent professional firms that provides a range of services to organizations across various industries, government, and non-profit sectors. Its service areas include Audit, Assurance & Risk Consulting; Deals, Tax & Legal; Management Consulting; and Innovation & Digital Solutions.
 
@@ -133,7 +135,6 @@ To develop a dashboard
 ### Result
 [Check out my Tableau dashboard!](https://public.tableau.com/app/profile/viradhika/viz/TargetedCustomersDemographicDashboard/TargetedCustomerDemographic)
 
-<img width="1001" alt="Screenshot 2023-06-08 at 10 33 13 PM" src="https://github.com/viradhikaa/Data-Analysis-for-Retail-Chain/assets/56044346/f2439d60-7d89-4a0d-8d40-7f8b849acb49">
 
 
 
