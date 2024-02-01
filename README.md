@@ -1,4 +1,4 @@
-# Customer-Data-Analysis-for-Retail-Chain
+# Customer-Analytics-for-Retail-Chain
 
 ## Link to my Tableau Dashboard - [Click here](https://public.tableau.com/app/profile/viradhika/viz/TargetedCustomersDemographicDashboard/TargetedCustomerDemographic)
 
